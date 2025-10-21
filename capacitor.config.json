@@ -1,0 +1,6 @@
+{
+  "appId": "com.desa.jaten",
+  "appName": "Desa Jaten Digital",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
